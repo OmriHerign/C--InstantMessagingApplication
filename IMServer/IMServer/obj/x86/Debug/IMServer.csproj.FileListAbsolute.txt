@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\IMServer\IMServer\bin\Debug\IMServer.exe
+c:\users\user\documents\visual studio 2010\Projects\IMServer\IMServer\bin\Debug\IMServer.pdb
+c:\users\user\documents\visual studio 2010\Projects\IMServer\IMServer\obj\x86\Debug\IMServer.exe
+c:\users\user\documents\visual studio 2010\Projects\IMServer\IMServer\obj\x86\Debug\IMServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\IMServer\IMServer\obj\x86\Debug\IMServer.csprojResolveAssemblyReference.cache

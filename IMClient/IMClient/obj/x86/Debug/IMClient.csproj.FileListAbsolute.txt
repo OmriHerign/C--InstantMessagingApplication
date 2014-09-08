@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.LoginForm.resources
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.RegisterForm.resources
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.SessionForm.resources
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\bin\Debug\IMClient.exe
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\bin\Debug\IMClient.pdb
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.exe
+c:\users\user\documents\visual studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\IMClient\IMClient\obj\x86\Debug\IMClient.csprojResolveAssemblyReference.cache
